@@ -10,5 +10,5 @@ Backend API: [https://openai-chat-backend-utdq.onrender.com/chat](https://openai
 
 1. User enters a message in the chat UI (frontend).
 2. The message is sent to the backend API.
-3. Backend uses OpenAI gpt-4o-mini model to generate a response.
+3. Backend uses OpenAI gpt-4o-mini API model to generate a response.
 4. The response is returned and shown in the chat.
